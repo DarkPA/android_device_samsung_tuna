@@ -19,10 +19,10 @@
     <string name="color_blue_title">Blue</string>
     <string name="gamma1_title">Default</string>
     <string name="gamma2_title">CM Sett.</string>
-    <string name="gamma3_title">Natural</string>
+    <string name="gamma3_title">Paranoid</string>
     <string name="color1_title">Default</string>
     <string name="color2_title">CM Sett.</string>
-    <string name="color3_title">Natural</string>
+    <string name="color3_title">Paranoid</string>
     <string name="color_warning">Values higher than 200 are not recommended</string>
     <string name="gamma_dss_title">DSS Gamma Set.</string>
 
